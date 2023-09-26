@@ -4,10 +4,6 @@
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderjj0/)
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-fernandes-7805b6210/)
 
-![Ander GitHub stats](https://github-readme-stats.vercel.app/api?username=andersuther&show_icons=true&theme=e.g.)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersuther)
-
 ## Tecnologias que utilizo
 
 <div style="display:inline_block"><br/>
